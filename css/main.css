@@ -75,6 +75,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+.hidden {
   display: none;
 }
 .nav__items {
