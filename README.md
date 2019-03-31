@@ -19,9 +19,9 @@ background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, rgba(0,0,0,0.35)
 * La fuente del pie es Arial
 * El color de fondo del menu es #402929 al 92% de opacidad
 * El título siempre tiene que ir en dos líneas
-La columna de contenido principal:
- * de 320 a 767px tiene 30px de margen a izquierda y derecha
- * a partir de 768px tiene 60px de margen y un ancho máximo de 990px
- * siempre tiene que quedar centrada
+* La columna de contenido principal:
+  * de 320 a 767px tiene 30px de margen a izquierda y derecha
+  * a partir de 768px tiene 60px de margen y un ancho máximo de 990px
+  * siempre tiene que quedar centrada
 * El pie siempre tiene que quedar abajo de la pantalla
 * No hay que usar React ni preprocesadores CSS
