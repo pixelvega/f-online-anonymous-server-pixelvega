@@ -32,16 +32,9 @@ body {
 .page__header {
   font-family: "Roboto Slab", serif;
   font-size: 36px;
-  background-color: rgba(64, 41, 41, 0.92);
   z-index: 6;
   position: fixed;
   top: 0;
-  height: 100vh;
-  width: 100vw;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  display: none;
 }
 .nav-trigger {
   position: fixed;
@@ -76,6 +69,13 @@ body {
 
 /* MENU */
 .nav {
+  background-color: rgba(64, 41, 41, 0.92);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  display: none;
 }
 .nav__items {
   list-style: none;
